@@ -1,6 +1,6 @@
 # Spark Engine Time
 
-This adds simple parsing, pretty printing, and comparison functions to [luxon](https://github.com/moment/luxon) (A library for working with dates and times in JS).
+A DateTime library which extends [Luxon](https://github.com/moment/luxon) to add parsing, pretty printing, and comparison.
 
 ### `parse(date, options)`
 

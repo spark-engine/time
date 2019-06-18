@@ -1,7 +1,7 @@
 {
   "name": "@spark-engine/time",
   "version": "1.0.0",
-  "description": "Makes working with and comparing time easier. (extends luxon)",
+  "description": "A date libarary which extends Luxon to add parsing, pretty printing, and comparison.",
   "main": "index.js",
   "repository": "https://github.com/spark-engine/time",
   "author": "Brandon Mathis",

@@ -1,0 +1,15 @@
+{
+  "name": "@spark-engine/time",
+  "version": "1.0.0",
+  "description": "Makes working with and comparing time easier. (extends luxon)",
+  "main": "index.js",
+  "repository": "https://github.com/spark-engine/time",
+  "author": "Brandon Mathis",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^1.16.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
